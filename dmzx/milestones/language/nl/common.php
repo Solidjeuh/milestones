@@ -3,7 +3,7 @@
 *
 * @package phpBB Extension - Milestones
 * @copyright (c) 2016 dmzx - http://www.dmzx-web.net
-* Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
@@ -36,7 +36,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'MILESTONES_TITLE'					=> 'Mijlpalen',
 	'MILESTONES_VIA_GITHUB'				=> 'via Github',
-	'MILESTONES_LAST_UPDATED'			=> 'Laatst geupdate',
+	'MILESTONES_LAST_UPDATED'			=> 'Laatst geüpdatet',
 	'MILESTONES_COMPLETE'				=> 'compleet',
 	'MILESTONES_OPEN'					=> 'open',
 	'MILESTONES_CLOSED'					=> 'gesloten',
